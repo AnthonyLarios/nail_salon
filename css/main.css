@@ -74,3 +74,17 @@ li#tab {
   background-color: #fff;
   border-radius: 5px 5px 0px 0px;
 }
+
+/* ~~~ Footer ~~~ */
+
+div#footer {
+  background: #f00;
+}
+
+div#footer a, div#footer a:visited {
+  color: #000;
+}
+
+div#footer a:hover {
+  color: #fff;
+}
