@@ -6,3 +6,71 @@ body, h1, div, ul, li, img {
   margin: 0px;
   padding: 0px;
 }
+
+/* ~~~ Header and Navigation ~~~ */
+
+div#navigation {
+  text-align: center;
+  background-color: #bbb;
+  padding-top: 0.3em;
+}
+
+ul {
+  margin: 1em auto 0px auto;
+  min-width: 450px;
+  max-width: 900px;
+}
+
+li {
+  display: inline-block;
+  height: 1.5em;
+  width: 10%;
+  min-width: 55px;
+}
+
+li a, li a:visited {
+  color: #000;
+}
+
+li a:hover {
+  color: #f00;
+}
+
+li#tab {
+  background-color: #fff;
+  border-radius: 5px 5px 0px 0px;
+}
+
+/* ~~~ Header and Navigation ~~~ */
+
+div#navigation {
+  text-align: center;
+  background-color: #bbb;
+  padding-top: 0.3em;
+}
+
+ul {
+  margin: 1em auto 0px auto;
+  min-width: 450px;
+  max-width: 900px;
+}
+
+li {
+  display: inline-block;
+  height: 1.5em;
+  width: 10%;
+  min-width: 55px;
+}
+
+li a, li a:visited {
+  color: #000;
+}
+
+li a:hover {
+  color: #f00;
+}
+
+li#tab {
+  background-color: #fff;
+  border-radius: 5px 5px 0px 0px;
+}
