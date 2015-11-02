@@ -1,0 +1,15 @@
+/* ~~~ Slide Show ~~~ */
+
+#slide_show img{
+  width: 640px;
+  height: 480px;
+}
+
+.visible {
+  display: block;
+  margin: 0px auto;
+}
+
+.hidden {
+  display: none;
+}
