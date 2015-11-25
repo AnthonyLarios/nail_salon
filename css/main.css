@@ -54,3 +54,7 @@ div#footer a, div#footer a:visited {
 div#footer a:hover {
   color: #fff;
 }
+
+div#footer p {
+  text-align: center;
+}
