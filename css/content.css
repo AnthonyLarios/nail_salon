@@ -6,3 +6,42 @@
   width: 80%;
   margin: 0px auto;
 }
+
+.content div {
+  margin: 0px auto;
+}
+
+@media screen and (min-width: 2435px) {
+  .content div {
+    width: 1945px;
+  }
+}
+
+@media screen and (min-width: 2025px) and (max-width: 2434) {
+  .content div {
+    width: 1620px;
+  }
+}
+@media screen and (min-width: 1620px) and (max-width: 2024px) {
+  .content div {
+    width: 1295px;
+  }
+}
+
+@media screen and (min-width: 1215px) and (max-width: 1619px) {
+  .content div {
+    width: 970px;
+  }
+}
+
+@media screen and (min-width: 805px) and (max-width: 1224px) {
+  .content div {
+    width: 645px;
+  }
+}
+
+@media screen and (max-width: 804px) {
+  .content div {
+    width: 320px;
+  }
+}
